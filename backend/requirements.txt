@@ -1,3 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-jose[cryptography]
+httpx
+pytest
+python-multipart
+python-dotenv
+sqlmodel
+psycopg2-binary
+supabase
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
 pydantic==2.5.0
